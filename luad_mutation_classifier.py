@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Gaziantep University
+@author: Gaziantep University İlkay Sibel Kervancı, Gözde Özsert Yiğit
 Topic: LUAD Driver Mutation Classification Pipeline v8
 
 METODOLOJİ:
