@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Gaziantep University
+@author: Gaziantep University İlkay Sibel Kervancı, Gözde Özsert Yiğit
 Topic: Leak-Free Bioinformatics Pipeline — Bayesian Opt + Stacking + SHAP (v3 GPU)
 
 DEĞİŞİKLİKLER v3:
